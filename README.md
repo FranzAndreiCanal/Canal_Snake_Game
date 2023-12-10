@@ -56,7 +56,9 @@ Welcome to the Snake Game, a classic arcade-style game implemented in Python usi
 ![5](https://github.com/FranzAndreiCanal/Canal_Snake_Game/assets/145314497/e5b58fd0-47cc-4ddb-97d9-5abed8b7e8ef)
 
 **Conclusion**
-+ And there you have it – a simple yet entertaining Snake Game implemented in Python using Pygame. Feel free to explore the code, tweak it, and use it as a starting point for your game development adventures. Enjoy coding and happy gaming!
++ And there you have it – a detailed exploration of the code behind this Snake Game. From handling user input to managing game states, collision detection, and visual rendering, this code encapsulates fundamental game development concepts. Feel free to dissect and modify it as you embark on your own game development adventures.
+
+Enjoy the journey, happy coding, and most importantly, happy gaming!
 
 
 
