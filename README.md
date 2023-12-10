@@ -1,5 +1,12 @@
 # Snake Game in Pygame
 
++ Hello! I am Franz Andrei Canal.
++ In order to run the Snake Game, open the "main.py" which is contained inside the folder.
++ Note: Make sure that Pygame is installed in your device to avoid any errors.
+
+## Video Presentation
++ 
+
 # Overview
 
 Welcome to the Snake Game, a classic arcade-style game implemented in Python using the Pygame library. This project provides a simple and enjoyable rendition of the iconic Snake Game, where players control a snake navigating a grid, consuming apples to grow longer.
