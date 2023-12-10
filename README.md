@@ -1,6 +1,6 @@
 # Snake Game in Pygame
 
-+ Hello! I am Franz Andrei Canal.
++ Hello! I am Franz Andrei G. Canal.
 + In order to run the Snake Game, open the "main.py" which is contained inside the folder.
 + Note: Make sure that Pygame is installed in your device to avoid any errors.
 
